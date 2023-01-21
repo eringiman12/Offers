@@ -9,7 +9,7 @@
     <title>志望一覧</title></title>
 </head>
 <body>
-
+{{-- sss --}}
     <div class="Main_Block">
         <form action="{{url('/select_shogo_get')}}" method="post">
             @csrf
